@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I am Ronak Khandelwal, a **Software Engineer** (Currently in 2nd year of my college). I develop **ChatBots** the most but other than that, I also know how to develop **Games** in unity, **Android Apps**, **Websites** etc.
+🎓 I am Ronak Khandelwal, a **Software Engineer** (Currently in 3rd year of my college). I develop **ChatBots** the most but other than that, I also know how to develop **Games** in unity, **Android Apps** using Flutter, **Websites** etc.
 
 📚 I am currently studying to become a successful **Software Engineer** to develop my own softwares and games!
 
